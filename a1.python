@@ -1,0 +1,10 @@
+l1=map(int,input().split(' '))
+l2=[]
+l3=[]
+print(l1)
+a=l1[0]
+sum=0
+b=l1[1]
+for i in range(a):
+    l2.append(list(map(int,input().split(' '))))
+print(l2)
